@@ -31,7 +31,7 @@ from .utils import (
     is_in_excluded_types
 )
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __author__ = 'maverikod'
 __email__ = 'vasilyvz@gmail.com'
 

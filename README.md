@@ -1,6 +1,8 @@
 # ent1ctosqlite
 
-A tool for converting 1C:Enterprise configurations to SQLite database
+Version 0.1.1
+
+A tool for converting 1C:Enterprise configuration files extracted from the configurator using the "Upload to files" command into a SQLite database
 
 ## Installation
 

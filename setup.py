@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="ent1ctosqlite",
-    version="0.1.0",
+    version="0.1.1",
     author="maverikod",
     author_email="vasilyvz@gmail.com",
     description="A tool for converting 1C:Enterprise configurations to SQLite database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/maverikod/ent1ctosqlite",
+    url="https://girikod/ent1ctosqlite",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -35,6 +35,8 @@ setup(
             'pytest-cov',
             'black',
             'flake8',
+            'build',
+            'twine',
         ],
     },
     entry_points={
