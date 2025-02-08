@@ -11,7 +11,7 @@ setup(
     description="A tool for converting 1C:Enterprise configurations to SQLite database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://girikod/ent1ctosqlite",
+    url="https://github.com/maverikod/ent1ctosqlite",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
